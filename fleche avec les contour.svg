@@ -4,7 +4,7 @@
         fill="none"
         stroke="#ffffff"
         stroke-width="1.5"
-        stroke-linejoin="round"/>
+        stroke-linejoin="miter"/>
 
   <!-- Forme noire -->
   <path d="M4 2V6c2.3333-.6667 3-1 6-2V3-1L6 0M6 0 4-2-1 2H4h6"
