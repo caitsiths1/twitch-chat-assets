@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-4 -5 16 14">
-  <!-- Contour blanc -->
-  <path d="M4 2V6c2.3333-.6667 3-1 6-2V3-1L6 0M6 0 4-2-1 2H4h6"
-        fill="none"
-        stroke="#ffffff"
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -4 14 12">
+  <!-- Partie gauche avec contour -->
+  <path d="M4 2V6c2.3333-.6667 3-1 6-2V3-1L6 0M6 0 4-2-1 2H4"
+        fill="black"
+        stroke="white"
         stroke-width="2"
         stroke-linejoin="miter"/>
 
-  <!-- Forme noire -->
-  <path d="M4 2V6c2.3333-.6667 3-1 6-2V3-1L6 0M6 0 4-2-1 2H4h6"
-        fill="#000000"
+  <!-- Partie droite sans contour -->
+  <path d="M4 0H10V8H4Z"
+        fill="black"
         stroke="none"/>
 </svg>
